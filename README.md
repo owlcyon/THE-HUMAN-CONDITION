@@ -133,12 +133,11 @@ You're free to use, remix, and build upon it—just credit the source and keep i
 ## Contact
 
 For questions, observations, or collaboration:  
-[Your preferred contact method]
+@owlcyon 
 
 ---
 
 *"The unexamined life is not worth living." — Socrates*  
 *"The examined life is worth documenting." — This project*
-```
 
 ---

@@ -174,28 +174,6 @@ Large systems change slowly. Don't expect immediate shifts. But small interventi
 
 ---
 
-## Current Focus Areas
-
-*(These would be the first files you create in each subdomain)*
-
-### Micro:
-- **Nervous system** (trauma responses, regulation—directly relevant to Wounded Hermit)
-- **Belief systems** (worldviews that enable or constrain sovereignty)
-
-### Meso:
-- **Family systems** (directly relevant to Son's Burden, mother-son dynamics)
-- **Poverty systems** (how economic constraint operates at family/community level)
-
-### Macro:
-- **Economic systems** (capitalism, poverty traps—relevant to Trapped Sovereign)
-- **Cultural systems** (narratives about masculinity, success, worthiness)
-
-### Dynamics:
-- **Feedback loops** (how poverty reinforces poverty, how isolation deepens isolation)
-- **Leverage points** (where can you intervene most effectively?)
-
----
-
 ## How to Use This Domain
 
 **When analyzing personal experience:**

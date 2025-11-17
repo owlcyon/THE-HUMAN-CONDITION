@@ -1,6 +1,6 @@
 **The Architecture**
 
-The Directory structure. 
+Directory structure. 
 
 ```
 the-human-condition/

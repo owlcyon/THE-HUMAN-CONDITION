@@ -56,6 +56,11 @@ New patterns, anomalies, and discoveries—things that don't yet fit existing ca
 ### `/Meta`
 Reflections on the methodology itself—how this work is done, why it's structured this way, what it's building toward.
 
+### `/Systems`
+The archetypes document individual patterns. Maps show how those patterns interconnect. But systems are the structures those patterns exist within—the larger frameworks that shape, constrain, enable, and direct human experience at every scale.
+This is foundational architecture.
+
+
 ---
 
 ## How to Navigate

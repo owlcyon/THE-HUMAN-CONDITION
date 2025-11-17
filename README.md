@@ -1,7 +1,5 @@
-# THE-HUMAN-EXPERIENCE
+# THE-HUMAN-CONDITION
 A Catography Of Human Thought
-
-# The Human Condition: A Cartography
 
 > *"Know thyself." — Socratic imperative*  
 > *"Map the territory." — Korzybski's dictum*  

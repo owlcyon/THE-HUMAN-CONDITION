@@ -76,27 +76,6 @@ If the methodology is explicit, others can use it, adapt it, improve it.
 
   ---
 
-  ## How Meta Documents Work
-  Each document follows this general structure:
-   ```
-## [Title]
-
-## Overview
-[What this document covers]
-
-## Core Principles
-[Fundamental commitments or ideas]
-
-## Key Points
-[Main content—methods, limits, insights]
-
-## Examples
-[Concrete instances illustrating the points] 
-
-## Open Questions [Unresolved issues, ongoing debates]
-
---- 
-
 ## Key Principles 
 
 ### 1. The Observer Affects the Observed 
@@ -106,7 +85,7 @@ You're not a neutral camera. Your biases, experiences, and blind spots shape wha
 The methodology you start with won't be the methodology you end with. Document the changes. 
 
 ### 3. Transparency Over Perfection
-Better to show your flaws openly than pretend they don't exist.
+Better to show your flaws openly than pretend they 't exist.
 
 ### 4. Limitations Are Strengths 
 Admitting what you can't do protects against overreach and hubris. 

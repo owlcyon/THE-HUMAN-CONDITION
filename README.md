@@ -92,6 +92,30 @@ This is **phenomenology meets systems thinking**—Husserl's epoché applied wit
 
 ---
 
+## The Foundation: Gödel's Mirror
+
+This entire framework rests on a philosophical insight:
+
+**Incompleteness is not a mathematical property—it's a property of consciousness.**
+
+Gödel's theorem reveals that any sufficiently complex formal system contains truths it cannot prove from within itself. But this isn't a flaw in mathematics. It's a **reflection of the recursive nature of the observer**.
+
+Self-reference is the engine. The mind observing itself creates the incompleteness.
+
+**Gödel's Mirror** is the recognition that:
+- We cannot step outside ourselves to see ourselves completely
+- Every map we make includes the mapmaker's shadow
+- Every system we're inside of limits what we can know about that system
+- Consciousness is the recursion that creates the incompleteness
+
+**THE HUMAN CONDITION is the study of this recursion.**
+
+Each domain explores a different face of the same recursive truth.
+```
+
+---
+
+
 ## Who This Is For
 
 - **Anyone trying to understand themselves** (why do I do what I do?)

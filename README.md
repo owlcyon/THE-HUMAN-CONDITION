@@ -1,4 +1,4 @@
-# THE-HUMAN-CONDITION
+ THE-HUMAN-CONDITION
 A Catography Of Human Thought
 
 > *"Know thyself." — Socratic imperative*  
@@ -111,10 +111,8 @@ Self-reference is the engine. The mind observing itself creates the incompletene
 **THE HUMAN CONDITION is the study of this recursion.**
 
 Each domain explores a different face of the same recursive truth.
-```
 
 ---
-
 
 ## Who This Is For
 

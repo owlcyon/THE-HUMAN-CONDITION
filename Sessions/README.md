@@ -1,6 +1,7 @@
 # Sessions: The Raw Material
 
 > *"All knowledge begins with conversation." — Socratic method*
+
 > *"These are the conversations that built the map." — This project*
 
  ---

@@ -1,5 +1,3 @@
-# ** Sessions.** 
-
 # Sessions: The Raw Material
 
 > *"All knowledge begins with conversation." — Socratic method*

@@ -30,7 +30,8 @@ Insight doesn't arrive fully formed. It emerges through questions, confusion, it
 ### 3. **Enables Re-Mining**
 You might skim past something important in a conversation. Later, reading it again, you see what you missed. Sessions let you return to the source.
 
-### 4. **Documents Evolution** Early sessions show early thinking. Later sessions show refinement. You can trace how understanding developed.
+### 4. **Documents Evolution** 
+Early sessions show early thinking. Later sessions show refinement. You can trace how understanding developed.
 
 ### 5. **Transparency**
 Showing your raw thinking builds trust. "Here's how I got here" is more credible than "here's the truth."

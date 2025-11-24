@@ -23,7 +23,7 @@ At its heart, the Distraction-Extraction Super cycle is a meta-stable equilibriu
 
 # Breakdown 
 
-**1. Distraction Generation (Input Phase):
+**1. Distraction Generation (Input Phase):**
 
 Every headline is a compressed packet of “here’s what you’re supposed to believe other humans intend right now,” and because theory-of-mind updates are automatic and emotional, the packet installs itself faster than conscious scrutiny can intercept it. 
 
@@ -33,7 +33,7 @@ as the primary conduit for macro (societal-level, like economic/political struct
 The result? Widespread cognitive fatigue, where deep, sustained focus becomes a relic, and humans devolve into "reactive nodes" in a network optimized for extraction over enlightenment.
 
 
-**2. Attention Harvesting (Core Mechanism): 
+**2. Attention Harvesting (Core Mechanism):** 
 
 Tech and cultural systems commodify this scattered focus, selling it to advertisers or power brokers. Attention becomes the "new oil," with platforms designed to maximize dwell time through dopamine hits and outrage amplification.
 
@@ -42,7 +42,7 @@ The cultural layer sustains commodification by making users complicit: We share 
 Tech provides the infrastructure (algorithms that boost negativity because it spreads faster), while culture supplies the justification (e.g., "staying informed" or "calling out injustice" masks the extraction).
 
 
-**3. Extraction and Upward Flow (Output Phase): 
+**3. Extraction and Upward Flow (Output Phase):** 
 
 Fragmented attention enables upward wealth/energy transfer—e.g., users scroll instead of organizing, allowing elites to extract via surveillance capitalism, policy inertia, and market monopolies. Agency drains downward: Individuals feel empowered by "likes" but lose real influence.
 
@@ -51,12 +51,12 @@ Fragmented attention—shattered by perpetual stimuli (news bridges, algo-outrag
 The cruel irony: Users feel empowered in micro-moments (a viral post!), but systemically, agency evaporates—organizing requires undivided attention, which the supercycle starves.
 
 
-**3. Reinforcement and Lock-In (Feedback Loop):
+**4. Reinforcement and Lock-In (Feedback Loop):**
 
 Solutions to distractions (e.g., more apps for "focus") or crises (e.g., more security tech) stay within the system, deepening the cycle. This creates addiction-like dependency, where escaping feels impossible without systemic overhaul.
 
 
-**4. Scale Integration:
+**5. Scale Integration:**
 
 Nested systems, micro-level habits (e.g., doomscrolling) feed meso-level divisions (e.g., echo chambers), which sustain macro crises (e.g., polarized politics), all under meta-historical patterns (e.g., post-industrial info overload).
 

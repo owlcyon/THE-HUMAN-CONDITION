@@ -1,6 +1,3 @@
----
-tags:
----
 
 
 # THE EXTRACTION DISTRACTION SUPERCYCLE
